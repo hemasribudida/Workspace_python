@@ -2,7 +2,7 @@ import csv
 from statistics import mean
 
 # Load data from course.csv
-def load_data(filename='B:/bhema/Workkspace-python/second_day_Task/emi_calc/quiz_app/course_data/course.csv'):
+def load_data(filename='B:/bhema/Workkspace-python/second_day_Task/course_data/course.csv'):
     with open(filename, newline='') as f:
         reader = csv.DictReader(f)
         data = list(reader)
