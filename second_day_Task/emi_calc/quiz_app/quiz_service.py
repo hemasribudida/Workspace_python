@@ -1,5 +1,3 @@
-# quiz_app/quiz_service.py
-
 from question import Question
 
 def load_questions_from_file(file_path):

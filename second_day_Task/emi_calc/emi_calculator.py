@@ -1,5 +1,5 @@
 def get_user_input():
-    """Get principal, annual interest rate, and tenure in months from user."""
+  
     try:
         principal = float(input("Enter the loan amount (Principal): "))
         annual_rate = float(input("Enter the annual interest rate (in %): "))
