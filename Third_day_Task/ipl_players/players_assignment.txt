@@ -1,0 +1,29 @@
+1. Data Loading and Basic Analysis:
+   - Load the player data from YAML/JSON file
+   - Display basic statistics about the dataset
+   - Find the total number of players
+   - Calculate the average player price
+
+2. Team Analysis:
+   - Count the number of players in each team
+   - Find the team with the most players
+   - Calculate the total team value (sum of player prices) for each team
+   - Identify the most expensive team
+
+3. Player Role Analysis:
+   - Count the number of players in each role (BATSMAN, BOWLER, ALL_ROUNDER, WICKETKEEPER)
+   - Find the most common role
+   - Calculate the average price for each role
+   - Identify the most expensive role
+
+4. Country Analysis:
+   - Count the number of players from each country
+   - Find the country with the most players
+   - Calculate the average price of players from each country
+   - Identify the most expensive player from each country
+
+5. Advanced Analysis:
+   - Find the top 5 most expensive players
+   - Find the top 5 most expensive players in each role
+   - Find the top 5 most expensive players in each team
+   - Find the top 5 most expensive players from each country
